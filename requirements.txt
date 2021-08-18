@@ -5,8 +5,8 @@
 #    pip-compile
 #
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.6.0+cpu
-torchvision===0.7.0+cpu
+torch==1.5.0+cpu
+torchvision==0.6.0+cpu
 fastai==1.0.61
 ipywidgets
 voila
